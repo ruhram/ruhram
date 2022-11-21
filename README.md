@@ -1,6 +1,6 @@
 - 👋 Hello, My name is Rully Rachman 
-- 👀 I’m interested in Robotic, web development and game engine
-- 🌱 I’m currently learning Fullstack Web and Unity
+- 👀 I’m interested in Robotic, web development, data analyst and data science
+- 🌱 I’m currently learning machine lerning
 - 📫 You can reach me at @ruhram in instagram 
 
 <!---
