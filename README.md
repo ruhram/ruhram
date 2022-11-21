@@ -1,6 +1,6 @@
 - 👋 Hello, My name is Rully Rachman 
 - 👀 I’m interested in Robotic, web development, data analyst and data science
-- 🌱 I’m currently learning machine lerning
+- 🌱 I’m currently learning machine learning
 - 📫 You can reach me at @ruhram in instagram 
 
 <!---
